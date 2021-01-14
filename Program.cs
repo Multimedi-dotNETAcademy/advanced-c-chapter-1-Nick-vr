@@ -14,6 +14,7 @@ namespace advanced_c_chapter_1_Nick_vr
         [STAThread]
         static void Main()
         {
+            //Commit
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
